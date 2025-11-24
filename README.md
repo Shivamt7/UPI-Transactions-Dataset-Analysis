@@ -1,6 +1,6 @@
 # UPI Transactions Dataset Analysis – Power BI Dashboard (2024)
 
-### **🔗 Dashboard Link:** *Add your Power BI Service link here*
+### **🔗 Dashboard Link:** *[Report View Link](https://app.powerbi.com/view?r=eyJrIjoiZjIxMGQ3MGMtOWFkMi00YmQ3LWIxMmQtYjU2YzdjMmIyZGY3IiwidCI6IjVlNzcwZDE0LTVjYTctNDZlMC05ZTAwLTJjZGYyMTBiZDFjYSJ9)*
 
 ---
 
@@ -79,7 +79,7 @@ Displays:
 - For Bangalore (EUR), Delhi (USD), Hyderabad (GBP), Mumbai (INR)  
 - Includes conditional formatting  
 - Screenshot:  
-`/mnt/data/Table View.png`
+  ![Table View](Table%20View.png)
 
 ---
 
@@ -87,7 +87,7 @@ Displays:
 - Clean, modern layout  
 - Values in Millions  
 - Screenshot:  
-`/mnt/data/Balance by Month (Column).png`
+![Balance by Month (Column)](Balance%20by%20Month%20(Column).png)
 
 ---
 
@@ -95,21 +95,21 @@ Displays:
 - Smooth trend line  
 - Shows high/low balance periods  
 - Screenshot:  
-`/mnt/data/Balance by Month (Line).png`
+![Balance by Month (Line)](Balance%20by%20Month%20(Line).png)
 
 ---
 
 #### **📍 D. Transactions by Month — Column Chart**
 - Shows overall transaction distribution  
 - Screenshot:  
-`/mnt/data/Transactions by Month (Column).png`
+![Transactions by Month (Column)](Transactions%20by%20Month%20(Column).png)
 
 ---
 
 #### **📍 E. Transactions by Month — Line Chart**
 - Month-over-month transaction trend  
 - Screenshot:  
-`/mnt/data/Transactions by Month (Line).png`
+![Transactions by Month (Line)](Transactions%20by%20Month%20(Line).png)
 
 ---
 
@@ -141,17 +141,6 @@ Added bookmark buttons to toggle:
 
 ### **Step 10 — Publishing**
 - Final dashboard published to Power BI Service for sharing & accessibility.
-
----
-
-# 📸 Dashboard Snapshots
-*(Add these screenshot paths after uploading)*
-
-- Table View  
-- Balance by Month (Column)  
-- Balance by Month (Line)  
-- Transactions by Month (Column)  
-- Transactions by Month (Line)  
 
 ---
 
